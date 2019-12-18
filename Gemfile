@@ -9,4 +9,4 @@ end
 
 gem "hashie"
 
-gem 
+gem "sinatra", "~> 2.0.2"
